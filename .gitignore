@@ -1,0 +1,4 @@
+dist
+debs
+src/usr/share/vineflower/*.jar
+*.deb

@@ -1,0 +1,12 @@
+Package: vineflower
+Name: Vineflower
+Description: Debian packages for Vineflower.
+Author: Jacob Sapoznikow <jacob@nosadnile.net>
+Maintainer: Jacob Sapoznikow <jacob@nosadnile.net>
+Version: 1.9.3
+Section: java
+Architecture: all
+Depends: openjdk-17-jre
+Source: https://github.com/RedstoneWizard08/vineflower-debs
+Homepage: https://github.com/RedstoneWizard08/vineflower-debs
+Website: https://github.com/RedstoneWizard08/vineflower-debs
